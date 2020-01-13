@@ -1,0 +1,45 @@
+#grid_groups_wrapper {
+    max-width: 800px;
+}
+
+.default-avatar {
+    background-color: #47d501;
+    font-weight: 500;
+    color: #fff;
+    font-size: 1rem;
+  }
+  
+  .default-avatar,
+  .member-overlap-item {
+    height: 40px;
+    width: 40px;
+  }
+  
+  .table td,
+  .table th {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .member-overlap-item {
+    margin-right: -10px;
+    border: 2px solid #fff;
+  }
+  
+  .group {
+    min-height: 40px;
+    height: 66px;
+    line-height: 66px;
+  }
+  
+  .grid-icon {
+    vertical-align: middle;
+    line-height: 1;
+  }
+  
+  .group-class {
+    height: 40px;
+    line-height: 40px;
+    vertical-align: middle;
+  }  
